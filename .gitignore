@@ -1,0 +1,80 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 仮想環境
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE関連
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS関連
+.DS_Store
+Thumbs.db
+*.log
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# ビルド関連
+*.spec
+*.manifest
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+
+# プロジェクト固有
+*.bak
+*.tmp
+*.temp
+
+# アプリケーションビルド成果物
+*.app
+*.pyxapp
+*.exe
+*.dmg
+*.pkg
+# Unix実行ファイル
+**/bin/*
+*.out
+*.o
+*.so
+*.a
+*.la
+*.lo
+
+ecard_game
